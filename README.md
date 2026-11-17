@@ -6,7 +6,6 @@
 *Cross-view complementarity in disaster damage assessment, studied through conflict cases*
 
 [![Paper](https://img.shields.io/badge/paper-ACM%20DL%20%C2%B7%20GeoSearch%20'26-2c6fb7)](https://dl.acm.org/doi/10.1145/3849732.3857333)
-[![arXiv](https://img.shields.io/badge/arXiv-2610.04327-b31b1b)](https://arxiv.org/abs/2610.04327)
 [![Website](https://img.shields.io/badge/website-project%20page-500000)](https://rayford295.github.io/CrossViewGate/)
 [![Slides](https://img.shields.io/badge/slides-GeoSearch%20'26%20talk-6a4c93)](talk/geosearch2026/CrossViewGate_GeoSearch2026_slides.pdf)
 [![Datasets](https://img.shields.io/badge/data-disaster--crossview--datasets-168a58)](https://github.com/rayford295/disaster-crossview-datasets)
@@ -174,8 +173,6 @@ No-Go or sensitivity-only findings, recorded with their consumed-data ledger in
                Searching and Mining Large Collections of Geospatial Data (GeoSearch '26)},
   year      = {2026},
   doi       = {10.1145/3849732.3857333},
-  eprint    = {2610.04327},
-  archivePrefix = {arXiv},
   note      = {Lightning talk. Code: https://github.com/rayford295/CrossViewGate}
 }
 ```
